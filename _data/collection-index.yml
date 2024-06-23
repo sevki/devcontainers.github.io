@@ -833,3 +833,8 @@
   contact: https://github.com/tcaky/devcontainer-features/issues
   repository: https://github.com/tcaky/devcontainer-features
   ociReference: ghcr.io/tcaky/devcontainer-features
+- name: Rust with KVM
+  maintainer: sevki
+  contact: https://github.com/oknotokcomputer/devcontainer/issues
+  repository: https://github.com/oknotokcomputer/devcontainer
+  ociReference: ghcr.io/oknotokcomputer/devcontainer
